@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrik.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning web developing & Python 3.
+- 🌱 I’m currently learning web developing & Python.
 - 📫 How to reach me patrikmartic1609@gmail.com
 
 <!---
